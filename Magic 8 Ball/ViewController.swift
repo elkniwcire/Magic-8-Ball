@@ -29,7 +29,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-    @IBAction func askButton(_ sender: Any) {
+    @IBAction func askButtonPressed (_ sender: Any) {
         
         newBallImage()
         
